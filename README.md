@@ -6,5 +6,5 @@ Blog: https://sakizo-blog.com/en/586/
 
 ### Setup
 ```
-https://github.com/sakizo-blog/dashboard_streamlit_altair_en.git
+git clone https://github.com/sakizo-blog/dashboard_streamlit_altair_en.git
 ```
